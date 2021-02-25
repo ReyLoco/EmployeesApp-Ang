@@ -1,5 +1,7 @@
 # EmployeesApp
 
+This project is created to learn Angular, following the instructions of Domini Code in his video https://youtu.be/nEfemck6iNk
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
 ## Development server
